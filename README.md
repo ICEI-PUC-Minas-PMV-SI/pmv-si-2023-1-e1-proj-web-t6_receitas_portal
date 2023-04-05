@@ -1,24 +1,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10736930&assignment_repo_type=AssignmentRepo)
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Aplicações Web`
 
-`SEMESTRE`
+`2023/1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Allan Spaviero Alpoim
+* Felipe Paiva dos Santos
+* Gabriela Moreira Bastos
+* Giulia Fernandes de Mattos
+* Isadora Gomes Murta Araújo
+* Jeiverson Christian Ventura Miranda dos Santos
+* Kauane Stefany Cordeiro Rodrigues
+* Rômulo Ferraz Chaves
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nesley Jesus Daher de Oliveira
 
 ## Instruções de utilização
 
