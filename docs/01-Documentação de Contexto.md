@@ -3,6 +3,8 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
+A partir da identificação dos acervos online de receitas, como podemos corrigir as falhas quanto ao agrupamento, organização e diversidade das receitas culinárias?
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
@@ -16,6 +18,17 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
+**Objetivo geral:**
+
+Oferecer acesso a um acervo global de receitas de forma interativa, a exemplo de uma rede social onde há uma comunidade e seus nichos.
+Além de disponibilizar as receitas e indicações gastronômicas, deve abordar um visual atrativo, organizado e que preste os mais variados tipos de receitas com acesso a inclusão alimentar.
+
+**Objetivo específico:**
+
+    1) Oferecer um acervo de receitas que incluam uma grande variedade de dietas e estilos de alimentação para tornar mais fácil a vida do usuário.
+    2) Permitir com que os usuários façam suas contribuições de receitas, a fim da criação de uma comunidade que apoia a alimentação inclusiva.
+    3) Apontar selos indicadores nas receitas para que pessoas com restrições alimentares se sintam seguras em consumi-las aumentando a variedade de seu cardápio.
+
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
@@ -25,6 +38,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
+A alimentação e a gastronomia não possuem um espaço específico para si na Web, muito menos tratando-se de alimentação inclusiva e que respeite as individualidades. As plataformas existentes oferecem serviços de funcionalidades únicas e há uma dificuldade crônica em incluir informações organizadas sobre restrições alimentares, dentre outros filtros específicos. Ao oferecer uma ferramenta aberta, pública e colaborativa de receitas, restaurantes e rotulações alimentares, conseguiremos incluir um grande número de pessoas no mundo da alimentação inclusiva. 
+
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
 O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
@@ -33,6 +48,8 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+
+O público-alvo do projeto são pessoas de todas as idades, gêneros e estados civis, que busquem sobre culinária, restaurantes ou dietas restritivas, e que procurem um espaço para obter e compartilhar informações, dicas e receitas adaptadas às suas necessidades alimentares diárias.
 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, etc.
