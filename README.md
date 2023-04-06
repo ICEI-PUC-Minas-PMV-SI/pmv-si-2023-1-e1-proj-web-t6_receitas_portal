@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Allan Spaviero Alpoim
 * Felipe Paiva dos Santos
 * Gabriela Moreira Bastos
-* Giulia Fernandes de Mattos
+* Giulia Fernandes Donato de Mattos
 * Isadora Gomes Murta Araújo
 * Jeiverson Christian Ventura Miranda dos Santos
 * Kauane Stefany Cordeiro Rodrigues
