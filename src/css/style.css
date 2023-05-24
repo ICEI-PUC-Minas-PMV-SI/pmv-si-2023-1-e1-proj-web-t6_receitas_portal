@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
 @import url(cabeçalho.css);
 @import url(menu-lateral.css);
+@import url(página-receitas.css);
 
 :root {
     --fonte-principal: "Poppins";
     --cor-primaria: #609966;
     --cor-secundaria: #BF9780;
-    --hover-botao:#e2f1e3;
     --cor-de-fundo: #FFFF;
 }
 
