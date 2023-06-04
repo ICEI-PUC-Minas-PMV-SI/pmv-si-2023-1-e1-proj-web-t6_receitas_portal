@@ -3,6 +3,7 @@
 @import url(cabeçalho.css);
 @import url(menu-lateral.css);
 @import url(página-receitas.css);
+@import url(pagina-inicial.css);
 
 :root {
     --fonte-principal: "Poppins";
