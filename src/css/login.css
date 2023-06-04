@@ -154,5 +154,5 @@ body{
     color: rgb(0, 0, 0);
     margin-inline: 2vh;
     margin-top: 6vh;
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: var(Poppins);
 }
