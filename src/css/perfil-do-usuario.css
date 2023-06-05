@@ -1,0 +1,31 @@
+
+
+.nome_de_usuario{
+    font-family: var(--fonte-principal);
+    font-size: 48px;
+    color: #BF9780;
+    margin: 10px;
+    padding-left: 42px;
+}
+h1{
+font-family: var(--fonte-principal);
+font-size: 32px;
+color: #BF9780;
+margin: 18px;
+padding-left: 38px;
+}
+.lista_de_receitas_usuario {
+    margin: 30px;
+    font-size: 28px;
+    width: 50%;
+    height: 50%;
+    margin-top: 2%;
+}
+.conteudo_usuario {
+    margin-top: 5%;
+}
+svg {
+    margin-left: 10px;
+    
+
+}
