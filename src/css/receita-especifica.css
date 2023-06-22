@@ -1,0 +1,18 @@
+.conteudo_da_pagina{
+    display: flex;
+    text-align: justify;
+    margin-right: 750px;
+}
+
+.ingredientes{
+    margin-top:30px;
+    font-family: var(--fonte-principal);
+    font-size: 32px;
+    color: #BF9780;
+}
+
+.modo_de_preparo{
+    font-family: var(--fonte-principal);
+    font-size: 32px;
+    color: #BF9780;
+}
