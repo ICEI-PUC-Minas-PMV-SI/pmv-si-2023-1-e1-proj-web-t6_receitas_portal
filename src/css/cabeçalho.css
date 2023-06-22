@@ -22,21 +22,23 @@
 }
 
 .logo {
-    height: 90px;
-    margin-left: 1em;
+    height: 150px;
+    margin-left: 0.5em;
 }
 
 .menu__titulo {
     font-size: 3.5em;
     color: var(--cor-primaria);
-    margin-left: 0.5em;
+    margin-left: 0.1em;
     text-decoration: none;
+    margin-top: 25px;
 }
 
 .pesquisa { 
     padding: 1em 8em;
     margin-left: 6em;
     border-radius: 10px;
+    margin-top: 25px;
 }
 
 ::placeholder {
@@ -45,6 +47,7 @@
 
 .menu__botao {
     margin-right: 1.5em;
+    margin-top: 25px;
 }
 
 .botao {
