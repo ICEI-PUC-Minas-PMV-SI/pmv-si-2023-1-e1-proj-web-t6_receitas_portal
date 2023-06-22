@@ -1,4 +1,6 @@
-
+*{
+    text-align: justify;
+}
 
 .nome_de_usuario{
     font-family: var(--fonte-principal);
