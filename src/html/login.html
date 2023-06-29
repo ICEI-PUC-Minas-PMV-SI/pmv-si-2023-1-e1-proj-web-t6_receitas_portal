@@ -23,15 +23,30 @@
             <label for="name"><br> 
             </label>
 
-            <input type="email" name="email" placeholder="E-mail">
+            <input type="text" name="email" placeholder="E-mail" id="login">
             <br>
             <label for="password"><br></label>
-            <input type="password"name="Senha" placeholder="Senha">
+            <input type="password"name="Senha" placeholder="Senha" id="Senha">
+            <div class="button">
+                <button type="submit" onclick="logar(); return false">Entrar</button>
+                </div>
             </form>
-              <div class="button">
-                 <button type="submit">Entrar</button>
-                 </div>
             </div>
         </div>
+        <script>
+
+            function logar(){
+
+                var login = document.getElementById('login').value;
+                var senha = document.getElementById('Senha').value;
+
+                if(login == "admin" && senha == "admin"){
+                    location.href = "http://127.0.0.1:5500/pmv-si-2023-1-e1-proj-web-t6_receitas_portal/src/index.html";
+                }else{
+                    alert("usuario ou senha incorretos");
+                }
+            }
+
+        </script>
 </body>
 </html>
