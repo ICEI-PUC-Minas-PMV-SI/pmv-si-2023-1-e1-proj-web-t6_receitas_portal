@@ -1,23 +1,29 @@
-.conteudo_da_pagina{
-    display: flex;
-    text-align: justify;
-    margin-right: 750px;
+.conteudo {
+    margin: 3.5em 20em;
 }
 
-.ingredientes{
-    margin-top: 100px;
-    font-family: var(--fonte-principal);
-    font-size: 32px;
-    color: #BF9780;
+.conteudo__titulo {
+    font-size: 4em;
+    margin-bottom: 0.5em;
+    color: var(--cor-secundaria);
 }
 
-.modo_de_preparo{
-    font-family: var(--fonte-principal);
-    font-size: 32px;
-    color: #BF9780;
+.imagem__prato {
+    width: 50%;
+    border-radius: 10px;
 }
-h1{
-    font-family: var(--fonte-principal);
-    font-size: 40px;
-    color: #BF9780;
+
+.conteudo__texto {
+    font-size: 1em;
+    margin-bottom: 3em;
+    line-height: 2.5em;
 }
+
+.conteudo__texto__subtitulo {
+ font-size: 2em;
+ color: var(--cor-secundaria);
+ margin: 1em 0;
+
+    
+}
+
