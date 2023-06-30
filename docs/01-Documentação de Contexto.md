@@ -12,9 +12,9 @@ Durante uma análise comparativa com outras plataformas online existentes no mer
 Oferecer um serviço de acesso à receitas tradicionais e específicas de forma interativa, por meio de uma plataforma inspirada nas redes sociais, unindo receitas aos seus respectivos nichos e promovendo a inclusão alimentar de grupos minoritários.
 
 **Objetivo específico:**
-> - 1) Oferecer um acervo de receitas que incluam variedades de dietas alimentares, visando aumentar a inclusão dos usuários
-> - 2) Permitir com que os usuários contribuam para a comunidades através da adição e remoção de receitas, sinalização de receitas favoritas e participem de discussões moderadas pela própria comunidade.
-> - 3) Incluir selos indicativos nas receitas, com a finalidade de alertar restrições alimentares. Dessa forma, os usuários com necessidades específicas poderão se sentir seguro ao preparar e desfrutar das receitas.
+> - Oferecer um acervo de receitas que incluam variedades de dietas alimentares, visando aumentar a inclusão dos usuários
+> - Permitir com que os usuários contribuam para a comunidades através da adição e remoção de receitas, sinalização de receitas favoritas e participem de discussões moderadas pela própria comunidade.
+> - Incluir selos indicativos nas receitas, com a finalidade de alertar restrições alimentares. Dessa forma, os usuários com necessidades específicas poderão se sentir seguro ao preparar e desfrutar das receitas.
 
 ## Justificativa
 
