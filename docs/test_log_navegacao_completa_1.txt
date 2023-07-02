@@ -1,0 +1,31 @@
+18:28:55 2. setWindowSize on 1288x728 OK
+18:28:55 3. click on id=login OK
+18:28:55 4. type on id=login with value admin OK
+18:28:56 5. type on id=Senha with value admin OK
+18:28:57 6. click on css=.button OK
+18:28:57 7. click on css=button OK
+18:28:57 8. click on css=.logo-menu OK
+18:28:57 9. click on linkText=Vegetarianos OK
+18:28:58 10. click on linkText=Ver Receita OK
+18:28:59 11. click on linkText=Vegetarianos OK
+18:28:59 12. click on css=.col-3:nth-child(2) .card-botao OK
+18:29:00 13. click on css=.logo-menu OK
+18:29:01 14. click on linkText=Vegetarianos OK
+18:29:02 15. click on css=.col-3:nth-child(3) .card-botao OK
+18:29:03 16. click on linkText=Vegetarianos OK
+18:29:04 17. click on css=.col-3:nth-child(4) .card-botao OK
+18:29:04 18. click on linkText=Veganos OK
+18:29:05 19. runScript on window.scrollTo(0,1) OK
+18:29:06 20. click on linkText=Ver Receita OK
+18:29:07 21. click on linkText=Veganos OK
+18:29:07 22. runScript on window.scrollTo(0,332) OK
+18:29:08 23. click on css=.col-3:nth-child(2) .card-botao OK
+18:29:09 24. click on linkText=Veganos OK
+18:29:09 25. runScript on window.scrollTo(0,197) OK
+18:29:10 26. click on css=.col-3:nth-child(3) .card-botao OK
+18:29:11 27. click on linkText=Veganos OK
+18:29:12 28. click on css=.col-3:nth-child(4) .card-botao OK
+18:29:13 29. click on linkText=Veganos OK
+18:29:13 30. click on linkText=ChefSocial OK
+18:29:14 31. click on linkText=Sair OK
+18:29:16 'navegacao_completa_1' completed successfully

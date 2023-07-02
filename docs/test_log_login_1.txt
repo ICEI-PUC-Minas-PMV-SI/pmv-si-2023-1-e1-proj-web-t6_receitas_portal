@@ -1,0 +1,17 @@
+19:10:11 1. open on http://127.0.0.1:5500/src/html/login.html O
+19:10:11 2. setWindowSize on 1288x728 OK
+19:10:11 3. click on id=login OK
+19:10:11 4. type on id=login with value fulano@hotmail.com OK
+19:10:12 5. type on id=Senha with value 123456 OK
+19:10:13 6. click on css=button OK
+19:10:13 7. assertAlert on usuario ou senha incorretos OK
+19:10:13 8. click on id=login OK
+19:10:14 9. click on id=login OK
+19:10:14 10. doubleClick on id=login OK
+19:10:14 11. click on id=login OK
+19:10:14 12. click on id=login OK
+19:10:14 13. doubleClick on id=login OK
+19:10:14 14. type on id=login with value admin OK
+19:10:15 15. type on id=Senha with value admin OK
+19:10:15 16. click on css=button OK
+19:10:15 'Login' completed successfully
