@@ -74,6 +74,7 @@ O teste "login_1" é composto pelos testes funcionais relacionados à página "L
 
 • Log do teste apresentado via Selenium IDE:
 >19:10:11 1. open on http://127.0.0.1:5500/src/html/login.html OK
+&nbsp
 >19:10:11 2. setWindowSize on 1288x728 OK
 >19:10:11 3. click on id=login OK
 >19:10:11 4. type on id=login with value fulano@hotmail.com OK
