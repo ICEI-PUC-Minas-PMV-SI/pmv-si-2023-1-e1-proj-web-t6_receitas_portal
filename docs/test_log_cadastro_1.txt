@@ -1,0 +1,8 @@
+18:49:12 1. open on /src/html/cadastro.html OK
+18:49:12 2. setWindowSize on 1288x728 OK
+18:49:12 3. click on name=usuario OK
+18:49:12 4. type on name=usuario with value Fulano Ciclano OK
+18:49:14 5. type on name=email with value fulanociclano@hotmail.com OK
+18:49:15 6. type on name=Senha with value fulanocilano OK
+18:49:15 7. click on css=button OK
+18:49:15 'cadastro_1' completed successfully
