@@ -14,7 +14,7 @@
 }
 h1{
 font-family: var(--fonte-principal);
-font-size: 32px;
+font-size: 48px;
 color: #BF9780;
 margin: 18px;
 padding-left: 38px;
@@ -54,7 +54,7 @@ svg {
     color: rgb(2, 88, 2);
 }
 p {
-    font-size: 28px;
+    font-size: 32px;
     color: #BF9780;
     margin: 18px;
     padding-left: 38px;

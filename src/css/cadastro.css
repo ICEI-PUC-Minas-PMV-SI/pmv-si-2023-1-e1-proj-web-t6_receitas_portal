@@ -116,7 +116,7 @@ body{
    justify-content: space-around;
 }
 
-.bloco1 a{
+.bloco1 button{
     text-decoration: none;
     text-align: center;
     font-family:'Poppins', sans-serif;;
@@ -133,7 +133,7 @@ body{
     transition: all 300ms ease;
 }
 
-.bloco1 a:hover {
+.bloco1 button:hover {
     background-color:#6fb979;
 }
 

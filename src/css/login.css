@@ -110,7 +110,7 @@ body{
 
 }
 
-.bloco1 a{
+.bloco1 button{
     text-decoration: none;
     font-family: OCR A Std, monospace;    
     background-color:#609966;
@@ -124,7 +124,7 @@ body{
     width: 70%;
     margin-top: 2vh;
 }
-.bloco1 a:hover{
+.bloco1 button:hover{
     background-color:#80c788;
 }
 
@@ -155,4 +155,16 @@ body{
     margin-inline: 2vh;
     margin-top: 6vh;
     font-family: var(Poppins);
+}
+.error {
+    display: none;
+    padding: 2px;
+    font-family: var(--fonte-principal);
+    
+
+}
+.button {
+    margin-top: 2vh;
+    display: flex;
+    width: 40em;
 }
