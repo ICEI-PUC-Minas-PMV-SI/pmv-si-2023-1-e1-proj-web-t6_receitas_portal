@@ -28,13 +28,16 @@ function togglePasswordErrors() {
     }
 }
 function login() {
-  firebase.auth().signInWithEmailAndPassword(form.email().value, form.password().value
+   const form = document.querySelector('#loginForm'); 
+  firebase.auth().signInWithEmailAndPassword(form.email.value, form.password.value
   ).then(response => {
+    localStorage.setItem('token', 7)
     window.location.href = "../index.html";
   }).catch(error => {
+    alert('usuário inexistente')
     console.log('error', error)
   });
-    window.location.href = "../index.html"
+    
 }
 function register() {
     window.location.href = "cadastro.html"
@@ -42,4 +45,4 @@ function register() {
 
 function validateEmail(email) {
      return /\S+@\S+\.\S+/.test(email);
-}
+} 
