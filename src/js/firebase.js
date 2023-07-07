@@ -1,5 +1,5 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.4.0/firebase-app.js";
-import { getFirestore } from "https://www.gstatic.com/firebasejs/9.4.0/firebase-firestore.js";
+import { getFirestore, query, collection, getDocs } from "https://www.gstatic.com/firebasejs/9.4.0/firebase-firestore.js";
 
 const firebaseConfig = {
     apiKey: "AIzaSyBTNonozZmbfBQoCJsy8pEbTu01kOtsx6U",
@@ -12,3 +12,18 @@ const firebaseConfig = {
 };
 export const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);
+
+
+let receitas = [];
+
+async function getReceitas() {
+    const q = query(collection(db, "Receitas"));
+    const querySnapshot = await getDocs(q);
+    querySnapshot.forEach((doc) => {
+        receitas.push(doc.data())
+    });
+    localStorage.setItem('Receitas', JSON.stringify(receitas))
+}
+
+
+getReceitas()
