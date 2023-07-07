@@ -12,7 +12,7 @@ function toggleEmailErrors() {
     } else {
         document.getElementById('email-required-error').style.display = "none";
     }
-    
+
     if (validateEmail(email)) {
         document.getElementById('email-invalid-error').style.display = "none";
     } else {
@@ -24,25 +24,25 @@ function togglePasswordErrors() {
     if (!password) {
         document.getElementById('password-required-error').style.display = "block";
     } else {
-        document.getElementById('password-required-error').style.display = "none"; 
+        document.getElementById('password-required-error').style.display = "none";
     }
 }
 function login() {
-   const form = document.querySelector('#loginForm'); 
-  firebase.auth().signInWithEmailAndPassword(form.email.value, form.password.value
-  ).then(response => {
-    localStorage.setItem('token', 7)
-    window.location.href = "../index.html";
-  }).catch(error => {
-    alert('usuário inexistente')
-    console.log('error', error)
-  });
-    
+    const form = document.querySelector('#loginForm');
+    firebase.auth().signInWithEmailAndPassword(form.email.value, form.password.value
+    ).then(response => {
+        localStorage.setItem('token', 7)
+        window.location.href = "../index.html";
+    }).catch(error => {
+        alert('usuÃ¡rio inexistente')
+        console.log('error', error)
+    });
+
 }
 function register() {
     window.location.href = "cadastro.html"
 }
 
 function validateEmail(email) {
-     return /\S+@\S+\.\S+/.test(email);
+    return /\S+@\S+\.\S+/.test(email);
 } 
