@@ -34,7 +34,7 @@ function login() {
         localStorage.setItem('token', 7)
         window.location.href = "../index.html";
     }).catch(error => {
-        alert('usuÃ¡rio inexistente')
+        alert('usuário inexistente')
         console.log('error', error)
     });
 
