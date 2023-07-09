@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia abrange as definições das ferramentas empregadas pela equipe, desde o armazenamento e edição do código, até as interfaces de telas e Wireframes, a documentação do projeto e seu gerenciamento. Para a execução do projeto, foram empregadas metodologias ágeis, optando-se pelo Kanban como fundamento para a definição do fluxo de desenvolvimento.
 
 ## Controle de Versão
 
@@ -28,50 +28,36 @@ etiquetas:
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Tendo em vista uma divisão de tarefas justa, no qual as mudanças pudessem ocorrer no menor tempo possível, a equipe definiu adotar uma metodologia ágil, mais especificamente o Kanban, pois através dele seria possível trabalhar de maneira criativa e adaptável. Nessa metodologia, cada integrante do grupo fica responsável por uma ou mais tarefas no quadro de tarefas, e à medida que o projeto avança, mais tarefas são adicionadas ao ambiente.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Líder de Equipe: Jeiverson Christian Ventura Miranda dos Santos 
+- Líder de Equipe (Interino): Allan Spaviero Alpoim
+Obs.: o papel de líder de equipe precisou ser substituído por abandono de projeto por parte do primeiro líder.
+
+As tarefas de Documentação de Contexto, Especificação do Projeto e Projeto de Interface foram divididas igualmente para todos os membros do grupo, na qual cada um ficou responsável por uma microtarefa e um integrante foi escolhido para a unificação das pesquisas. Para as tarefas relativas à documentação e desenvolvimento de código, a divisão foi definida da seguinte forma:
+
+- Documentação: Allan Spaviero Alpoim.
+- Programação de Funcionalidades: Allan Spaviero Alpoim, Felipe Paiva dos Santos, Giulia Fernandes Donato de Mattos, Gabriela Moreira Bastos, Kauane Stefany Cordeiro Rodrigues, Rômulo Ferraz Chaves.
+- Banco de Dados e Integração: Felipe Paiva dos Santos, Giulia Fernandes Donato de Matos e Rômulo Ferraz Chaves.
+- Testes: Allan Spaviero Alpoim e Rômulo Ferraz Chaves.
+Obs.: as equipes podem ser trocadas, sob demanda.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O planejamento previa uma distribuição de tarefas e uma utilização mais intensa da ferramenta Asana, mas ao decorrer do desenvolvimento, a comunicação e o planejamento se concentrou no WhatsApp.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Editor de código: Visual Studio Code;
+- Versionamento: Github;
+- Ferramentas de comunicação: Microsoft Teams, Google Meet e WhatsApp;
+- Ferramentas de desenho de tela: Figma
+- Gerenciamento do Projeto: Asana
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+O editor de código Visual Studio Code foi escolhido porque possui integração direta com o sistema de versão GitHub, o que facilita a sincronização da equipe em relação às atualizações do projeto. As ferramentas de comunicação Teams, Meet e Whatps foram utilizadas por questões de disponibilidade e facilidade de contato. Já para a criação de diagramas e desenhos de tela, o Figma foi utilizado pois atendia todas as necessidades previstas para a solução.
