@@ -26,6 +26,8 @@ signupForm.addEventListener('submit', async (e) => {
         } catch (e) { alert("Não foi possível criar a conta") }
     }).then((rs) => {
         localStorage.setItem('token', 7)
+        localStorage.setItem('usuario', data.usuario)
+        localStorage.setItem('email', data.email)
         window.location.href = "../index.html";
     })
 });
