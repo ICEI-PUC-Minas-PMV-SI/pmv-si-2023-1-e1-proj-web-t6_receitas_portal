@@ -4,7 +4,9 @@ function onChangeEmail() {
 function onChangePassword() {
     togglePasswordErrors();
 }
-
+/**
+ * Definindo mensagens de erro para preenchimento do login
+ */
 function toggleEmailErrors() {
     let email = document.getElementById('email').value;
     if (!email) {
@@ -19,6 +21,9 @@ function toggleEmailErrors() {
         document.getElementById('email-invalid-error').style.display = "block";
     }
 }
+/**
+ * Definindo mensagens de erro para preenchimento da senha
+ */
 function togglePasswordErrors() {
     const password = document.getElementById('password').value;
     if (!password) {
@@ -27,6 +32,9 @@ function togglePasswordErrors() {
         document.getElementById('password-required-error').style.display = "none";
     }
 }
+/**
+ * Função para executar o login
+ */
 function login() {
     const form = document.querySelector('#loginForm');
     firebase.auth().signInWithEmailAndPassword(form.email.value, form.password.value
@@ -37,7 +45,6 @@ function login() {
         window.location.href = "../index.html";
     }).catch(error => {
         alert('usuário inexistente')
-        console.log('error', error)
     });
 
 }

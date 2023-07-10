@@ -4,7 +4,9 @@ document.addEventListener('DOMContentLoaded', function onLoad() {
     buscaReceitas();
     montaReceitas();
 })
-
+/**
+ * Recupera a busca feita pelo usuário
+ */
 function recuperaBusca() {
     let query = window.location.search.substring(1);
     let vars = query.split("&");
@@ -16,14 +18,18 @@ function recuperaBusca() {
     }
 
 }
-
+/**
+ * Fazendo a busca
+ */
 function buscaReceitas() {
     console.log('Receitas: ', JSON.parse(localStorage.getItem('Receitas')))
     const resultado = document.getElementById('resultado');
     let tpl = `RESULTADO para '${pesquisa}':`
     resultado.innerHTML = tpl;
 }
-
+/**
+ * Montando o resultado da busca
+ */
 function montaReceitas() {
     let tpl = '';
     const receitasAll = JSON.parse(localStorage.getItem('Receitas'));

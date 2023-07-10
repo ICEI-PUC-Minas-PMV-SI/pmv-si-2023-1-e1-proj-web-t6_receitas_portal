@@ -9,7 +9,9 @@ const signupForm = document.querySelector('#cadastroForm');
 loginRedirect.addEventListener('click', function RedirectLogin() {
     window.location.href = "login.html"
 })
-
+/**
+ * Criar o novo cadastro usuário
+ */
 signupForm.addEventListener('submit', async (e) => {
     e.preventDefault();
 
@@ -18,7 +20,9 @@ signupForm.addEventListener('submit', async (e) => {
         email: signupForm['email'].value,
         senha: signupForm['senha'].value
     };
-
+/**
+ * Enviando requisição para o firebase
+ */
     createUserWithEmailAndPassword(auth, data.email, data.senha).then(async cred => {
         try {
             await setDoc(doc(db, "Users", cred.user.uid), data);
