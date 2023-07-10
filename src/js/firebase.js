@@ -13,17 +13,15 @@ const firebaseConfig = {
 export const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);
 
-
 let receitas = [];
 
 async function getReceitas() {
     const q = query(collection(db, "Receitas"));
-    const querySnapshot = await getDocs(q);
-    querySnapshot.forEach((doc) => {
-        receitas.push(doc.data())
-    });
-    localStorage.setItem('Receitas', JSON.stringify(receitas))
+   const querySnapshot = await getDocs(q);
+   querySnapshot.forEach((doc) => {
+receitas.push(doc.data())
+   });
+   localStorage.setItem('Receitas', JSON.stringify(receitas))
 }
 
-
-getReceitas()
+getReceitas();
