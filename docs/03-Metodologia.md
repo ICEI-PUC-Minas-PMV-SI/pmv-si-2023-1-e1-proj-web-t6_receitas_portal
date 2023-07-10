@@ -44,6 +44,7 @@ As tarefas de Documentação de Contexto, Especificação do Projeto e Projeto d
 - Programação de Funcionalidades: Allan Spaviero Alpoim, Felipe Paiva dos Santos, Giulia Fernandes Donato de Mattos, Gabriela Moreira Bastos, Kauane Stefany Cordeiro Rodrigues, Rômulo Ferraz Chaves.
 - Banco de Dados e Integração: Felipe Paiva dos Santos, Giulia Fernandes Donato de Matos e Rômulo Ferraz Chaves.
 - Testes: Allan Spaviero Alpoim e Rômulo Ferraz Chaves.
+
 Obs.: as equipes podem ser trocadas, sob demanda.
 
 ### Processo
