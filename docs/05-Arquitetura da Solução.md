@@ -23,7 +23,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-![Diagrama de Componentes](img/componentes.png)
+![Diagrama de Componentes](img/arquitetura-de-solucao.png)
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
