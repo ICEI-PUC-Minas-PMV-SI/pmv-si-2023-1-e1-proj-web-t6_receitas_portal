@@ -48,14 +48,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Permitir que o usuário encontre receitas por tipo de restrição.   | ALTA |
 |RF-003| Permitir que o usuário encontre receitas por categorias.   | ALTA |
 |RF-004| Permitir que o usuário encontre estabelecimentos que os atendam.   | ALTA |
-|RF-005| Permitir que o usuário seja capaz de criar um cadastro no site.   | MÉDIA |
+|RF-005| Permitir que o usuário seja capaz de criar e utilizar um cadastro no site.   | MÉDIA |
 |RF-006| Permitir que os usuários cadastrados sejam capazes de incluir suas receitas no site.   | MÉDIA |
 |RF-007| Permitir que os usuários consigam comentar em posts públicos.   | MÉDIA |
-|RF-008| Inclusão de dados na criação do perfil.   | BAIXA |
+|RF-008| Permite que o usuário realize a inclusão de dados no seu perfil.   | BAIXA |
 |RF-009| Permitir a criação de novas categorias de restrições.   | BAIXA |
 
 Observações: 
-• Os requisitos funcionais RF-002, RF-006, RF-007, RF-008, RF-009 não serão entregues nessa etapa por falta de prazo hábil para entrega.
+• Os requisitos funcionais RF-002, RF-006, RF-007, RF-009 não serão entregues nessa etapa por falta de prazo hábil para entrega.
 • O requisito funcional RF-004 será removido do projeto por opção estatégica da equipe, em relação às funções apresentadas pelo sistema.
 
 ### Requisitos não Funcionais
