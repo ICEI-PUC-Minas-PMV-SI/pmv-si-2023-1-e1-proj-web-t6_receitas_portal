@@ -33,7 +33,7 @@ signupForm.addEventListener('submit', async (e) => {
         localStorage.setItem('token', 7)
         localStorage.setItem('usuario', data.usuario)
         localStorage.setItem('email', data.email)
-        window.location.href = "././index.html";
+        window.location.href = "../index.html";
     })
 });
 

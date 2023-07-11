@@ -44,7 +44,7 @@ function login() {
         localStorage.setItem('token', 7)
         localStorage.setItem('usuario', '')
         localStorage.setItem('email', form.email.value)
-        window.location.href = "./index.html";
+        window.location.href = "../index.html";
     }).catch(error => {
         alert('usuário inexistente')
     });

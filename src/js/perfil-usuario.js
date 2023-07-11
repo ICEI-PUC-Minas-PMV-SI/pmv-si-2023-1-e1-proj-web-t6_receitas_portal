@@ -30,7 +30,7 @@ deleteUser.addEventListener('click', async () => {
 
     alert('Usuario deletado com sucesso')
 
-    window.location.href = "./login.html";
+    window.location.href = "../html/login.html";
 })
 
 
