@@ -12,6 +12,8 @@ JAVASCRIPT: https://www.w3schools.com/js/default.asp
 
 Login: https://replit.com/@rommelpuc/LoginApp
 
+Alergia Alimentar: https://www.brasildefato.com.br/2022/03/08/alergia-alimentar-direito-a-informacao-nos-rotulos-avancou-mas-outros-desafios-permanecem
+
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
