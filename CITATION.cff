@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Chef Social
+authors:
+  - family-names: Spaviero Alpoim
+    given-names: Allan
+  - family-names: Paiva dos Santos
+    given-names: Felipe
+  - family-names: Moreira Bastos
+    given-names: Gabriela
+  - family-names: Fernandes Donato de Mattos
+    given-names: Giulia
+  - family-names: Gomes Murta Araújo
+    given-names: Isadora
+  - family-names: Cordeiro Rodrigues
+    given-names: Kauane Stefany
+  - family-names: Ferraz Chaves
+    given-names: Rômulo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Jesus Daher de Oliveira
+    given-names: Nesley
+keywords:
+  - Portal
+  - Receitas
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6_receitas_portal
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2023-07-11
