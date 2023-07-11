@@ -38,6 +38,10 @@ A Página de Categoria é uma modificação leve da página inicial, que apresen
 
 # Página de Perfil de Usuário
 
-![Página de Perfil de Usuário](img/website-perfildeusuario.JPG)
+![Página de Perfil de Usuário](img/website-perfildeusuario1.JPG)
 
-A única página, até o momento, incompleta do projeto. Atualmente, ela exibe os dados de usuário do perfil logado, mas deveria ser apta para editar e sobreescrever os dados do perfil, salvá=los ou deletar definitivamente a conta. Deveria contemplar o RF-006 (Permitir que os usuários cadastrados sejam capazes de incluir suas receitas no site) e complementar o RF-008 (Permite que o usuário realize a inclusão de dados no seu perfil).
+![Página de Perfil de Usuário](img/website-perfildeusuario2.JPG)
+
+![Página de Perfil de Usuário](img/website-perfildeusuario3.JPG)
+
+A página exibe os dados de usuário do perfil que estiver logado, possibilitando a edição desses dados e a exclusão do perfil. Essa página deveria contemplar o RF-006 (Permitir que os usuários cadastrados sejam capazes de incluir suas receitas no site), mas como explicado anteriormente, alguns requisitos funcionais foram deixados em espera, e contempla o RF-008 (Permite que o usuário realize a inclusão de dados no seu perfil).
