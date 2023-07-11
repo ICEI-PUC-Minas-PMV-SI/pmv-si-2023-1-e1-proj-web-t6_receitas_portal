@@ -22,7 +22,7 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para acessar, clique no link: https://chefsocial.vercel.app/html/login.html
 
 # Documentação
 
@@ -42,7 +42,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
--
+Utilizamos a plataforma Vercel como ambiente de hospedagem.
 
 # Armazenamento do Código-Fonte
 
