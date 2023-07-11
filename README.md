@@ -1,13 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10736930&assignment_repo_type=AssignmentRepo)
-# TÍTULO DO PROJETO
+# CHEF SOCIAL
 
 `Sistemas de Informação`
-
 `Eixo 1 - Projeto: Aplicações Web`
-
 `2023/1`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
@@ -19,7 +15,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Jeiverson Christian Ventura Miranda dos Santos
 * Kauane Stefany Cordeiro Rodrigues
 * Rômulo Ferraz Chaves
-
 
 ## Orientador
 

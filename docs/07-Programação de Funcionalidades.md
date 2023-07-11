@@ -32,7 +32,7 @@ A Página de Categoria é uma modificação leve da página inicial, que apresen
 
 # Página de Receita Específica
 
-![Página de Receita Específica](img/website-receitaespecifica.PNG)
+![Página de Receita Específica](img/website-receitaespecifica.JPG)
 
 É a página de objetivo final do projeto. Exibe uma receita completa para o usuário. Também é o resultado de de RF-003 (Permitir que o usuário encontre as páginas de receitas desejadas) e RF-005 (Permitir que o usuário encontre receitas por categorias), aplicados em etapas anteriores.
 
