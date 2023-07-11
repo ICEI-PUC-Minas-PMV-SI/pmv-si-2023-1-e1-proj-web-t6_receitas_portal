@@ -6,7 +6,8 @@ Faça uma apresentação resumida de todo o projeto, desde a contextualização 
 
 Faça o upload do arquivo de vídeo e dos slides usados na apresentação no formato PDF (caso tenha feito uso de slides).
 
-Apresentação dos slides em PDF: [Apresentação de Slides (1).pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6_receitas_portal/files/12010189/Apresentacao.de.Slides.1.pdf)
+Apresentação dos slides em PDF: [Apresentação de Slides.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e1-proj-web-t6_receitas_portal/files/12010196/Apresentacao.de.Slides.pdf)
+
 
 
 Video de Apresentação: 
