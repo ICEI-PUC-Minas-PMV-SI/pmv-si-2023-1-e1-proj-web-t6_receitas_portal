@@ -18,6 +18,6 @@ edit.addEventListener('click', async () => {
 
     alert('Usuario editado com sucesso')
 
-    window.location.href = "../html/perfil-do-usuário.html";
+    window.location.href = "./perfil-do-usuário.html";
 })
 
