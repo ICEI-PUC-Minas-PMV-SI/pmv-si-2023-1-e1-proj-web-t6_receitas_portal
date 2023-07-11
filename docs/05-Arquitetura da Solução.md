@@ -12,7 +12,7 @@ Nossa solução conta com as seguintes tecnologias:
 - `CSS`: para estilizar uma página web e seu conteúdo;
 - `Javascript`: linguagem utlizada amplamente em desenvolvimento web, que permite adicionar interatividades e funcionalidades dinâmicas. Com ela, é possível manipular elementos HTML, comunicação com servidores, etc;
 - `Firebase`: uma solução de armazenamento oferecida pelo Google, que permite a sincronização de bancos de dados em tempo real com facilidade. Oferece autenticação de usuários nativa, armazenamento de arquivos e outros serviços com escalabilidade e robustez;
-- `Hospedagem`: - 
+- `Vercel`: hospedagem de fácil integração com a ferramenta de versionamento de código;  
 - `Visual Studio Code`: ambiente de desenvolvimento integrado para criação, execução e correção de um código-fonte;
 - `Selenium IDE`: ambiente de criação de scripts de testes automatizados;
 - `Figma`: ferramenta criada para desenvolvimento de projetos de interface de software.
@@ -34,5 +34,6 @@ A solução implementada conta com os seguintes módulos:
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 ## Hospedagem
+Utilizamos a plataforma Vercel como ambiente de hospedagem. Pode ser acessado pelo link: 
 
--
+https://chefsocial.vercel.app/html/login.html
