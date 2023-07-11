@@ -39,8 +39,10 @@ function login() {
     const form = document.querySelector('#loginForm');
     firebase.auth().signInWithEmailAndPassword(form.email.value, form.password.value
     ).then(response => {
+        console.log('response: ', response)
+        localStorage.setItem('userId', response.user._delegate.uid)
         localStorage.setItem('token', 7)
-        localStorage.setItem('usuario','')
+        localStorage.setItem('usuario', '')
         localStorage.setItem('email', form.email.value)
         window.location.href = "../index.html";
     }).catch(error => {

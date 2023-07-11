@@ -20,12 +20,13 @@ signupForm.addEventListener('submit', async (e) => {
         email: signupForm['email'].value,
         senha: signupForm['senha'].value
     };
-/**
- * Enviando requisição para o firebase
- */
+    /**
+     * Enviando requisição para o firebase
+     */
     createUserWithEmailAndPassword(auth, data.email, data.senha).then(async cred => {
         try {
-            await setDoc(doc(db, "Users", cred.user.uid), data);
+            const usuario = await setDoc(doc(db, "Users", cred.user.uid), data);
+            localStorage.setItem('userId', cred.user.uid)
             alert("Usuário logado")
         } catch (e) { alert("Não foi possível criar a conta") }
     }).then((rs) => {

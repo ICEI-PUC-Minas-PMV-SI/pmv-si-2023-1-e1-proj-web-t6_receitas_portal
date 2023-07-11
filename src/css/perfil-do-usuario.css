@@ -59,3 +59,8 @@ p {
     margin: 18px;
     padding-left: 38px;
 }
+
+.div-nome-usuario {
+    display: flex;
+    align-items: center;
+}
